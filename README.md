@@ -1,12 +1,11 @@
 # kodluyoruzilkrepo
 * Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-
-![Github] (https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![Github](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
 
 ## Installation 
 
-Öncelikle projeyi clonelayın(Buaya sizin reponuzdan aldığınız ilk link gelecek)
+Öncelikle projeyi clonelayın(Buraya sizin reponuzdan aldığınız ilk link gelecek)
 
 ```
 git clone https://github.com/ibrahimkapici/kodluyoruzilkrepo.git
